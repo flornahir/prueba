@@ -1,0 +1,14 @@
+{
+    "name": "huertaaaaaaaa",
+    "short_name": "huerta",
+    "description": "algo algo",
+    "lang": "es",
+    "start_url": "index.html",
+    "scope": "/",
+    "display": "standalone",
+    "theme_color": "#9DC13E",
+    "icons": [{
+        "src": "https://flornahir.github.io/prueba/guia/icon/icon-512x512.png",
+        "sizes": "512x512"
+    }]
+}

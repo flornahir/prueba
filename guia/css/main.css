@@ -1,0 +1,76 @@
+body {
+    background-color: #FCF9D6;
+}
+
+a,
+p,
+h3 {
+    color: #653B17;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.05em;
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+.contenedorTexto {
+    width: 90%;
+    margin: 20px auto;
+}
+
+.contenedorTexto p {
+    padding: 10px 0;
+}
+
+.contenedorTexto h2 {
+    color: #9DC13E;
+    padding: 30px 0 15px;
+}
+
+.contenedorTexto h3 {
+    font-size: 1.3em;
+    color: #9DC13E;
+    padding: 15px 0 10px;
+}
+
+
+/*--------------------Epilogo---------------------*/
+
+#epilogo {
+    width: 90%;
+    margin: 10px auto 20px;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border: solid 2px #9DC13E;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+#epilogo h3 {
+    text-align: center;
+}
+
+#epilogo .img {
+    width: 100%;
+    margin: 10px auto;
+    padding: 5px;
+}
+
+#epilogo .naranja h3 {
+    padding: 0 10px 0 0;
+}
+
+#epilogo .naranja a {
+    position: relative;
+    color: #F7B22E;
+    z-index: 4;
+}
